@@ -1,0 +1,17 @@
+.error-page {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.error-code {
+  font-weight: 900;
+  font-size: 7rem;
+  color: red;
+}
+
+/* .error-disc {
+  color: red;
+} */
